@@ -1,0 +1,61 @@
+body{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  margin: 1px auto;
+  display: block;
+}
+.container{
+  width: 90%;
+  margin: 25px auto;
+}
+.formbody{
+  background-color: #FFFFFF;
+  width: 100%;
+}
+.inner{
+  padding: 20px;
+}
+button{
+  font-family: sans-serif;
+  width: 10%;
+  height: 20%;
+  color: white;
+  background-color: black;
+  align-content: right
+}
+
+img{
+  width: 15%;
+  height: 10%;
+  margin: 1px auto;
+  display: block;
+  line-height: 1px;
+}
+p1{
+  font-family: sans-serif;
+  font-size: 15px;
+  line-height: 50px;
+
+}
+p{
+  font-family: sans-serif;
+  font-size: 15px;
+  text-align: right;
+  padding-right: 20px;
+
+}
+h1{
+  font-family: sans-serif;
+  font-size: 20px;
+  line-height: 0px;
+}
+h4{
+  font-family: sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+}
+h5{
+  font-family: sans-serif;
+  font-size: 20px;
+  line-height: 10px;

@@ -1,0 +1,2 @@
+[16-Aug-2022 15:41:53 Asia/Manila] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/lo5icbnr6ot0/public_html/admin/productAdd.php on line 28
+[16-Aug-2022 15:53:23 Asia/Manila] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/lo5icbnr6ot0/public_html/admin/productAdd.php on line 28
