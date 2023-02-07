@@ -31,7 +31,7 @@ $results = $db_handle->runQuery($query);
  </script>
 <head>
 
-    <title>Admin Login | San Lucas Labline</title>
+    <title>Admin Login | Central Luzon State University</title>
     <?php include 'layouts/head.php'; ?>
 
     <?php include 'layouts/head-style.php'; ?>
