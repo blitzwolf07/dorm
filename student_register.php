@@ -56,7 +56,7 @@ $results = $db_handle->runQuery($query);
                         <div class="d-flex flex-column h-100">
                             <div class="mb-4 mb-md-0 text-center">
                                 <a href="#" class="d-block auth-logo">
-                                    <img src="images/logo.png" alt="" height="80"><!--  <span class="logo-txt">SAN LUCAS LABLINE</span> -->
+                                    <img src="images/logo.png" alt="" height="80">
                                 </a>
                             </div>
                             <div class="auth-content my-auto">
@@ -201,7 +201,7 @@ $results = $db_handle->runQuery($query);
                             <div class="mt-4 mt-md-5 text-center">
                                 <p class="mb-0">© <script>
                                         document.write(new Date().getFullYear())
-                                    </script> San Lucas Labline Company.</p>
+                                    </script> Central Luzon State university.</p>
                             </div>
                         </div>
                     </div>
